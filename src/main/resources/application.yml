@@ -1,0 +1,12 @@
+jms: 
+  user: desai
+  password: Infy123+
+  url:  google.com
+  
+---
+spring:
+      profiles: prod
+      
+jms: 
+  user: desaiProd
+    
